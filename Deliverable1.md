@@ -5,7 +5,7 @@
 
 **Topic you chose:** topic 2
 
-**Sprint Number:** Nr
+**Sprint Number:** 1
 
 **Scrum Master**: Timothy Awotunde
 
