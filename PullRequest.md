@@ -2,4 +2,5 @@
 Vivien Stahl - https://github.com/samabwhite/SER316StoryTime/pull/10
 Maryan Zinko - https://github.com/djdemers/eisbrecher/pull/5
 Timothy Awotunde - https://github.com/samabwhite/SER316StoryTime/pull/11 
-Ahmad Arif - Comparing jdwoodsi:main...aarif122:patch-1 · jdwoodsi/story (github.com)
+Ahmad Arif - Comparing jdwoodsi:main...aarif122:patch-1 · jdwoodsi/story (github.com)  
+Joyion Timmons - https://github.com/jdwoodsi/story/pull/10
