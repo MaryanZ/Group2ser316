@@ -14,24 +14,24 @@
 ### Sprint Planning (For Sprint 1-4)
 Document your Sprint Planning here. Also check the kickoff document for more details on what needs to be done. This is just the documentation. 
 
-**Sprint Goal:** Your Sprint goal
+**Sprint Goal:** Get familiar with the code do random User stories to understand it better and to make sure that we can complete all the tasks for topic 2 
 
-**How many User Stories did you add to the Product Backlog:**  Number
+**How many User Stories did you add to the Product Backlog:**  10 for week 1 
 
-**How many User Stories did you add to this Sprint:** 
-> Answer the questions below about your Sprint Planning?
+**How many User Stories did you add to this Sprint:*1* 
+> Answer the questions below about your Sprint Planning? 10
 
 **Why did you add these US, why do you think you can get them done in the next Sprint?**
 
-> Your Answer
+> added these to get more familiar with the code base and we should be able to get done with most of them
 
 **Why do you think these fit well with your Sprint goal? (details)**
 
-> Your Answer
+> This helps us with a little bit of everything like backend frontend and ux design
 
 **Do you have a rough idea what you need to do? (if the answer is no then please let me know on Slack)**
 
-> Your Answer
+> Yes we do
 
 
 
